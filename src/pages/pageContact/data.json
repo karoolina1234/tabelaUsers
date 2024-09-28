@@ -1,0 +1,87 @@
+[
+  {
+    "nome": "João Silva",
+    "email": "joao.silva@example.com",
+    "cpf": "123.456.789-00",
+    "rg": "12.345.678-9",
+    "telefone": "(51) 1234-5678",
+    "dataNascimento": "1990-01-01",
+    "endereco": {
+      "cep": "90000-000",
+      "endereco": "Rua das Flores",
+      "numero": "123",
+      "complemento": "Apto 202",
+      "cidade": "Porto Alegre",
+      "bairro": "Centro",
+      "estado": "RS"
+    }
+  },
+  {
+    "nome": "Maria Souza",
+    "email": "maria.souza@example.com",
+    "cpf": "987.654.321-11",
+    "rg": "98.765.432-1",
+    "telefone": "(11) 9876-5432",
+    "dataNascimento": "1985-05-15",
+    "endereco": {
+      "cep": "01000-000",
+      "endereco": "Avenida Paulista",
+      "numero": "1000",
+      "complemento": "Bloco B",
+      "cidade": "São Paulo",
+      "bairro": "Bela Vista",
+      "estado": "SP"
+    }
+  },
+  {
+    "nome": "Carlos Pereira",
+    "email": "carlos.pereira@example.com",
+    "cpf": "321.654.987-22",
+    "rg": "32.165.498-7",
+    "telefone": "(21) 8765-4321",
+    "dataNascimento": "1978-10-20",
+    "endereco": {
+      "cep": "20000-000",
+      "endereco": "Rua do Mercado",
+      "numero": "456",
+      "complemento": "Sala 5",
+      "cidade": "Rio de Janeiro",
+      "bairro": "Centro",
+      "estado": "RJ"
+    }
+  },
+  {
+    "nome": "Ana Lima",
+    "email": "ana.lima@example.com",
+    "cpf": "456.789.123-33",
+    "rg": "45.678.912-3",
+    "telefone": "(31) 9123-4567",
+    "dataNascimento": "1995-08-30",
+    "endereco": {
+      "cep": "30000-000",
+      "endereco": "Praça da Liberdade",
+      "numero": "789",
+      "complemento": "Cobertura",
+      "cidade": "Belo Horizonte",
+      "bairro": "Savassi",
+      "estado": "MG"
+    }
+  },
+  {
+    "nome": "Pedro Alves",
+    "email": "pedro.alves@example.com",
+    "cpf": "654.321.987-44",
+    "rg": "65.432.198-7",
+    "telefone": "(41) 9987-6543",
+    "dataNascimento": "1982-02-14",
+    "endereco": {
+      "cep": "80000-000",
+      "endereco": "Rua das Araucárias",
+      "numero": "321",
+      "complemento": "Casa",
+      "cidade": "Curitiba",
+      "bairro": "Batel",
+      "estado": "PR"
+    }
+  }
+]

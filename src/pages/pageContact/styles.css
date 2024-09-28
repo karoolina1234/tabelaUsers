@@ -1,0 +1,41 @@
+.page-contact {
+  padding: 36px;
+  margin-top: 20px;
+}
+
+.form-area {
+  padding: 24px;
+}
+h5 {
+  padding: 0px 14px;
+}
+
+.form-area label {
+  font-size: 13px;
+  margin-bottom: 5px;
+  font-weight: 500;
+  color: #545454;
+}
+
+.form-area input,
+.form-area select {
+  font-size: 14px;
+}
+
+.required {
+  color: red;
+  font-weight: bold;
+}
+
+.bi-check-circle-fill::before {
+  color: #00c1b4 !important;
+}
+
+.label {
+  margin-bottom: 0px;
+  color: #565656;
+  font-weight: 500;
+}
+.info {
+  color: #565656;
+}

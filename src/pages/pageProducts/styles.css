@@ -1,0 +1,105 @@
+.input-group-text {
+  background-color: #fff !important;
+  border-right: 0px !important;
+}
+.form-control {
+  border-left: 0px !important;
+}
+.filter-area {
+  display: grid;
+  grid-template-columns: 3fr 3fr 2fr 2fr 2fr 0.5fr;
+  gap: 20px;
+  margin-top: 20px;
+  align-items: end;
+}
+
+.form-label {
+  margin-bottom: 5px;
+}
+
+.link {
+  background-color: #0089bf;
+  border: none;
+  color: #fff;
+  width: 4rem;
+  padding: 0.5rem;
+  border-radius: 2rem;
+}
+
+table tr td,
+table tr th {
+  padding: 1rem !important;
+}
+
+table {
+  border: 1px #f1f1f1 solid;
+  border-radius: 1rem !important;
+  border-collapse: separate !important;
+  overflow: hidden;
+  border-spacing: 0;
+}
+.pagination {
+  display: flex;
+}
+.pagination a {
+  text-decoration: none;
+  cursor: pointer;
+}
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+  background-color: #eaedf275;
+  box-shadow: none !important;
+}
+
+table th {
+  font-weight: 400 !important;
+}
+table tr th,
+table tr td {
+  color: #666666 !important;
+  font-size: 12px;
+}
+table tr th {
+  font-weight: bold !important;
+}
+
+.item-id {
+  background-color: #eaedf2;
+  padding: 0.3rem;
+  border-radius: 5px;
+}
+
+.inactive {
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid #c2c2c2;
+  color: #333333;
+}
+.active {
+  background-color: #d8efee;
+  padding: 0.5rem;
+  color: #00c1b4;
+  border-radius: 5px;
+}
+.inactive-date {
+  background-color: #f4dfe3;
+  color: #ff4b6a;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+tr td,
+tr td {
+  width: 25%;
+}
+tfoot {
+  padding: 16px;
+}
+tfoot div a,
+tfoot div p {
+  font-size: 12px;
+}
+
+tfoot div p {
+  color: #a5a5a5 !important;
+}
+

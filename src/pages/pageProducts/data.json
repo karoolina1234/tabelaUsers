@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1122,
+    "produto": "Produto A",
+    "status": "ativo",
+    "data": "01/01/2023 até 31/12/2023",
+    "startDate": "01/01/2023",
+    "endDate": "31/12/2023"
+  },
+  {
+    "id": 2222,
+    "produto": "Produto B",
+    "status": "inativo",
+    "data": "15/02/2023 até 15/08/2023",
+    "startDate": "15/02/2023",
+    "endDate": "15/08/2023"
+  },
+  {
+    "id": 3333,
+    "produto": "Produto C",
+    "status": "ativo",
+    "data": "10/03/2023 até 10/09/2023",
+    "startDate": "10/03/2023",
+    "endDate": "10/09/2023"
+  },
+  {
+    "id": 4333,
+    "produto": "Produto D",
+    "status": "inativo",
+    "data": "20/04/2023 até 20/10/2023",
+    "startDate": "20/04/2023",
+    "endDate": "20/10/2023"
+  },
+  {
+    "id": 5444,
+    "produto": "Produto E",
+    "status": "ativo",
+    "data": "05/05/2023 até 05/11/2023",
+    "startDate": "05/05/2023",
+    "endDate": "05/11/2023"
+  },
+  {
+    "id": 6555,
+    "produto": "Produto F",
+    "status": "inativo",
+    "data": "15/06/2023 até 15/12/2023",
+    "startDate": "15/06/2023",
+    "endDate": "15/12/2023"
+  },
+  {
+    "id": 7555,
+    "produto": "Produto G",
+    "status": "ativo",
+    "data": "01/07/2023 até 01/01/2024",
+    "startDate": "01/07/2023",
+    "endDate": "01/01/2024"
+  },
+  {
+    "id": 8334,
+    "produto": "Produto H",
+    "status": "inativo",
+    "data": "12/08/2023 até 12/02/2024",
+    "startDate": "12/08/2023",
+    "endDate": "12/02/2024"
+  },
+  {
+    "id": 9333,
+    "produto": "Produto I",
+    "status": "ativo",
+    "data": "25/09/2023 até 25/03/2024",
+    "startDate": "25/09/2023",
+    "endDate": "25/03/2024"
+  },
+  {
+    "id": 10333,
+    "produto": "Produto J",
+    "status": "inativo",
+    "data": "30/10/2023 até 30/04/2024",
+    "startDate": "30/10/2023",
+    "endDate": "30/04/2024"
+  }
+]

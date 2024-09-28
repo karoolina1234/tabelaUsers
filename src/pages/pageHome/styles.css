@@ -1,0 +1,9 @@
+.homePage {
+  background-image: url("../../assets/images/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.area-btn {
+  text-align: center;
+}
